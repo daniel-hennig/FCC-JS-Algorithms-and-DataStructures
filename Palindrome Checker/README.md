@@ -1,4 +1,4 @@
-# freeCodeCamp - Product Landing Page solution
+# freeCodeCamp - Palindrome Checker solution
 
 This is a solution to the [Palindrome Checker challenge on freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker). FreeCodeCamp courses help you improve your coding skills. By completing the five web programming projects below you can earn a JavaScript Algorithms and Data Structures certification.
 - Palindrome Checker
@@ -33,7 +33,7 @@ We'll also pass strings with special symbols, such as 2A3*3a2, 2A3 3a2, and 2_A3
 
 ### Screenshot
 
-
+![Screenshot 2021-07-04 at 23-16-02 Palindrome Checker](https://user-images.githubusercontent.com/78707309/124398343-31844f00-dd0d-11eb-8aa3-22a7ee94101f.png)
 
 ### Links
 
