@@ -1,0 +1,23 @@
+* {
+    max-height: 100vh;
+}
+
+.image-color {
+    background-color: black;
+}
+
+.opacity-1 {
+    opacity: .1;
+}
+
+.vh-min100 {
+    min-height: 100vh;
+}
+
+.min-height-25 {
+    min-height: 25rem;
+}
+
+.max-width-50 {
+    max-width: 50rem;
+}
