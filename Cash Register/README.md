@@ -33,32 +33,33 @@ Return {status: "CLOSED", change: [...]} with cash-in-drawer as the value for th
 
 Otherwise, return {status: "OPEN", change: [...]}, with the change due in coins and bills, sorted in highest to lowest order, as the value of the change key.
 
-Currency Unit	Amount
-Penny	$0.01 (PENNY)
-Nickel	$0.05 (NICKEL)
-Dime	$0.1 (DIME)
-Quarter	$0.25 (QUARTER)
-Dollar	$1 (ONE)
-Five Dollars	$5 (FIVE)
-Ten Dollars	$10 (TEN)
-Twenty Dollars	$20 (TWENTY)
-One-hundred Dollars	$100 (ONE HUNDRED)
-See below for an example of a cash-in-drawer array:
-
-[
-  ["PENNY", 1.01],
-  ["NICKEL", 2.05],
-  ["DIME", 3.1],
-  ["QUARTER", 4.25],
-  ["ONE", 90],
-  ["FIVE", 55],
-  ["TEN", 20],
-  ["TWENTY", 60],
-  ["ONE HUNDRED", 100]
-]
+Currency Unit	Amount  
+Penny	$0.01 (PENNY)  
+Nickel	$0.05 (NICKEL)  
+Dime	$0.1 (DIME)  
+Quarter	$0.25 (QUARTER)  
+Dollar	$1 (ONE)  
+Five Dollars	$5 (FIVE)  
+Ten Dollars	$10 (TEN)  
+Twenty Dollars	$20 (TWENTY)  
+One-hundred Dollars	$100 (ONE HUNDRED)  
+See below for an example of a cash-in-drawer array:  
+  
+[  
+  ["PENNY", 1.01],  
+  ["NICKEL", 2.05],  
+  ["DIME", 3.1],  
+  ["QUARTER", 4.25],  
+  ["ONE", 90],  
+  ["FIVE", 55],  
+  ["TEN", 20],  
+  ["TWENTY", 60],  
+  ["ONE HUNDRED", 100]  
+]  
 
 ### Screenshot
 
+![mockuper](https://user-images.githubusercontent.com/78707309/128597855-cf9e1828-e704-46db-94c0-a3cd663f2319.png)
 
 
 ### Links
